@@ -1,0 +1,16 @@
+PODS:
+  - MercariQRScanner (1.9.0)
+
+DEPENDENCIES:
+  - MercariQRScanner
+
+SPEC REPOS:
+  trunk:
+    - MercariQRScanner
+
+SPEC CHECKSUMS:
+  MercariQRScanner: e5aea873969af59b09b4cc411fc1c5b6293dba44
+
+PODFILE CHECKSUM: 14f66a609a2c3b2aba819286025ae09b684d2ab9
+
+COCOAPODS: 1.11.3
